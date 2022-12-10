@@ -99,12 +99,17 @@ p{
     #lat-left, #sobre-left{
         display: none;                           
     } 
-    #button{
-        margin-right: 1em;
+    #button{        
+        margin-left: 0;
         font-family: Arial, Helvetica, sans-serif;
         color: black;        
-        background: rgb(55, 231, 111);        
-            
+        background: rgb(55, 231, 111);           
+    }
+
+    #navbar-principal li{
+       width: 50%;
+       margin:auto;
+        
     }
 
    #lat-rigth , #form-rigth {               
