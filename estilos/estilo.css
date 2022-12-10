@@ -110,7 +110,7 @@ p{
    #lat-rigth , #form-rigth {               
         box-sizing:border-box;        
         order: 0;
-        background:url(/imagens/avatar-principal.png)no-repeat, linear-gradient(10deg, #13accf, #5c4642, #0509f6);        
+        background:url(./imagens/avatar-principal.png)no-repeat, linear-gradient(10deg, #13accf, #5c4642, #0509f6);        
         background-size: contain;
         background-position:10px;        
         animation: none;
@@ -150,7 +150,7 @@ p{
      /*-----------Formatação Dados Pessoais Small-------*/
 
  #form-rigth{
-    background:url(/imagens/avatar_form1.png)no-repeat, linear-gradient(10deg, #13accf, #5c4642, #0509f6);
+    background:url(./imagens/avatar_form1.png)no-repeat, linear-gradient(10deg, #13accf, #5c4642, #0509f6);
     background-size: contain;
     background-position:10px;        
     animation: none;
@@ -184,7 +184,7 @@ p{
  
   /*-----------Formatação competencias -------*/
  #skill-rigth{
-    background:url(/imagens/avatar_trab.png)no-repeat, linear-gradient(10deg, #13accf, #5c4642, #0509f6);
+    background:url(./imagens/avatar_trab.png)no-repeat, linear-gradient(10deg, #13accf, #5c4642, #0509f6);
     background-size: contain;
     background-position:10px;        
     animation: none;
@@ -194,7 +194,7 @@ p{
 
  #sobre-rigth{
 
-    background:url(/imagens/avatar-principal.png)no-repeat, linear-gradient(10deg, #13accf, #5c4642, #0509f6);
+    background:url(./imagens/avatar-principal.png)no-repeat, linear-gradient(10deg, #13accf, #5c4642, #0509f6);
     background-size: contain;
     background-position:10px;        
     animation: none;
